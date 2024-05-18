@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+
+<menuitem 
+    name="Inside Guest" id="menu_hotel_inside_guest" 
+    parent="menu_hotel_masterlists"
+    action="action_hotel_inside_guest"/>
+</odoo>
+
+</odoo>

@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_hotel_charges,hotel.charges,model_hotel_charges,base.group_user,1,1,1,1
+access_hotel_guest,hotel.guest,model_hotel_guest,base.group_user,1,1,1,1
+access_hotel_dailycharges,hotel.dailycharges,model_hotel_dailycharges,base.group_user,1,1,1,1
